@@ -1,0 +1,131 @@
+
+#maindiv{
+    padding-left: 150px;
+}
+#imga{
+    padding-left:2px;
+    border: solid;
+    background-color: rgb(21, 12, 189);
+}
+#imgb{
+    float: left;
+    /* padding-left: 20px; */
+    border: solid;
+}
+#imgc{
+    float : left;
+    
+}
+
+#a{
+    width: 960px;
+    height: 100px;
+    border: solid;
+    background-color: rgb(226, 175, 5);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+#b{
+    /* display: inline-block; */
+    float: left;
+    width: 200px;
+    height: 600px;
+    border: solid;
+    background-color:rgb(50, 50, 1);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 500px;
+}
+#c{
+    /* display: inline-block; */
+    float: left;
+    width: 380px;
+    height: 200px;
+    border: solid;
+    background-color:rgb(26, 0, 0);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 225px;
+}
+#d{
+    display: inline-block;
+    /* float: right; */
+    width: 380px;
+    height: 200px;
+    border: solid;
+    background-color:rgba(250, 128, 114, 0.42);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 225px;
+}
+
+#e{
+    display: inline-block;
+    /* float: right; */
+    width: 190px;
+    height: 250px;
+    border: solid;
+    background-color:rgb(rgb(255, 196, 0), rgb(2, 0, 128), rgb(255, 0, 43));
+    text-align: center;
+    vertical-align: middle;
+    line-height: 225px;
+}
+#f{
+    display: inline-block;
+    /* float: right; */
+    width: 190px;
+    height: 250px;
+    border: solid;
+    background-color:rgb(197, 255, 192);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 225px;
+}
+#g{
+    display: inline-block;
+    /* float: right; */
+    width: 190px;
+    height: 250px;
+    border: solid;
+    background-color:rgb(135, 222, 213);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 225px;
+}
+#h{
+    display: inline-block;
+    /* float: right; */
+    width: 190px;
+    height: 250px;
+    border: solid;
+    background-color:rgb(205, 255, 232);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 225px;
+}
+
+#i{
+    display: inline-block;
+    /* float: right; */
+    width: 760px;
+    height: 150px;
+    border: solid;
+    background-color:rgb(34, 0, 255);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+}
+@media (min-width : 200px){
+
+    #a{
+        width: 960px;
+        height: 100px;
+        border: solid;
+        background-color: rgb(255, 0, 162);
+        text-align: center;
+        vertical-align: middle;
+        line-height: 90px;
+    }
+}
